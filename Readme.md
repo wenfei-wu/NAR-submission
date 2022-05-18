@@ -1,1 +1,1 @@
-# This is the supplement materials for the submission
+# This is the supplement material for the submission
